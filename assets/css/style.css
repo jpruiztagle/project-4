@@ -1,0 +1,15 @@
+.navbar-brand img, footer img{
+    width: 5rem;
+}
+
+.card-footer span {
+    padding-left: 0.5rem;
+}
+
+i {
+    padding-right: 0.5rem;
+}
+
+.container-fluid{
+    padding-left: 1.5rem;
+}
